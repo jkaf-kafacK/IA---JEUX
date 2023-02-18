@@ -1,4 +1,4 @@
-# IA-JEUX
+# IA JEUX
 
 # simulation feu de forêt 
 ![alt text](https://github.com/jkaf-kafacK/IA---JEUX/blob/main/Feu%20de%20brouse/video_feu_2_cotes_opposes.gif?raw=true)
